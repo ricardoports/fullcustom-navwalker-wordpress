@@ -2,7 +2,7 @@
 Full and customizable nav-walker to wordpress
 
 Full example of use:
-
+<code>
 <?php wp_nav_menu(array(
 
 
@@ -97,3 +97,4 @@ Output:
     </a>
   </li>
 </ul>
+</code>
