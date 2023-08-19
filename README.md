@@ -99,6 +99,5 @@ Output:
     </a>
   </li>
 </ul>
-</code>
 
 ```
