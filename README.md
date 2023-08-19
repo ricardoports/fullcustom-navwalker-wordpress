@@ -2,7 +2,7 @@
 Full and customizable nav-walker to wordpress
 
 Full example of use:
-<code>
+```php
 <?php wp_nav_menu(array(
 
 
@@ -45,8 +45,10 @@ Full example of use:
                     'theme_location' => 'main-menu'
                   )); ?>
 
-
+```
 Output:
+
+```html
 
 <ul id="menu-topo" class="main-menu nav">
   <li  id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-13 current_page_item ">
@@ -98,3 +100,5 @@ Output:
   </li>
 </ul>
 </code>
+
+```
